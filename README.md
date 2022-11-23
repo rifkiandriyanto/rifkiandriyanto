@@ -1,7 +1,7 @@
 <p align="center">
   <samp>
-    <a href="https://rifkiandriyanto.netlify.app">me</a> ~
-    <a href="https://rifkiandriyanto.netlify.app/portfolio">projects</a> ~
-    <a href="https://twitter.com/andriy_rifki">tweets</a> 
+    <a href="https://rifkiandriyanto.vercel.app/">me</a> ~
+    <a href="https://www.linkedin.com/in/andriyantorifki/">linkedin</a> ~
+    <a href="https://dev.to/rifkiandriyanto">devto</a> 
   </samp>
 </p>
